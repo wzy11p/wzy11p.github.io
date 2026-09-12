@@ -1,0 +1,24 @@
+{
+  "version": "mobile-loading-20260912",
+  "sourceCommit": "15158d2bbc422a706ed7e6f5c116302b9c94d1dc",
+  "preparedAt": "2026-09-12T06:42:14.456974+00:00",
+  "model": [
+    {
+      "kind": "ktx2",
+      "width": 1280,
+      "height": 3840,
+      "rawBytes": 8634328,
+      "downloadBytes": 6459499,
+      "url": "/assets/crafted-lot/yizhu-mobile-ktx2-6fdd85e53142.glb"
+    },
+    {
+      "kind": "webp",
+      "width": 640,
+      "height": 1920,
+      "rawBytes": 5519060,
+      "downloadBytes": 3356535,
+      "url": "/assets/crafted-lot/yizhu-mobile-webp-05b6b9e70f9b.glb"
+    }
+  ],
+  "entrySHA256": "2a507fd01aa5071353d32fb1630b57eae3e954dcc187894b209d7eaaf373ec6e"
+}
