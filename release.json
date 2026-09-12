@@ -1,8 +1,8 @@
 {
-  "version": "20260913-mobile-hint",
-  "sourceCommit": "bb691d0",
-  "preparedAt": "2026-09-12T17:55:26.458362+00:00",
-  "entrySHA256": "979f7fd9de9e8f88eb6c5b588a9d920f800aeb567c5939fdf64ad7049e1308b9",
+  "version": "20260913-audio-warm",
+  "sourceCommit": "e05a56f",
+  "preparedAt": "2026-09-12T18:06:33.092236+00:00",
+  "entrySHA256": "e6283aaf9ffc09cce3369c3f058df596f89414743945d018599dcbd60683a99b",
   "mobileDefault": "fast-ktx2-collar-retopology",
   "desktopDefault": "unchanged",
   "homepagePreload": true,
@@ -41,5 +41,8 @@
   "guidedExitSeconds": 1.8,
   "rollbackCommit": "c45c7d58ce2f7ee80a0be765d6e4e53bbe218b02",
   "mobileGuidance": "按住签筒，来回摇晃",
-  "desktopGuidance": "轻点或空格摇一下 · 按住来回摇"
+  "desktopGuidance": "轻点或空格摇一下 · 按住来回摇",
+  "backgroundMusicPreload": "metadata on enabled homepage; same player continues on first gesture",
+  "backgroundAudioUnchanged": true,
+  "backgroundAudioSHA256": "64ba08ee4879ae15feec4f4bb9854bd6cfff388afbfe4e9bcfed650e3ace926c"
 }
