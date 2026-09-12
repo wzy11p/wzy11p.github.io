@@ -1,8 +1,8 @@
 {
-  "version": "20260912-restored",
-  "sourceCommit": "2dc84bd9563c56d19667e1f8d24d8d6083bf8f48",
-  "preparedAt": "2026-09-12T08:09:34.513848+00:00",
-  "entrySHA256": "28148f9cba770c1c5bf49e1ac9b567fea5f5a2ea538a4f19d1339b80527f29de",
+  "version": "20260913-timed-draw",
+  "sourceCommit": "0a28701",
+  "preparedAt": "2026-09-12T17:31:22.018313+00:00",
+  "entrySHA256": "598b93acfd849890b9ea32d4102912f03fe897cdc692d3ffd85e271f8dea0448",
   "mobileDefault": "fast-ktx2-collar-retopology",
   "desktopDefault": "unchanged",
   "homepagePreload": true,
@@ -25,11 +25,8 @@
       "sha256": "6f4e9d962a00051d7420a10b97988f721c2d1da3dfbe259dbc8d599a3b37bc75"
     }
   ],
-  "recoveryActions": [
-    "tap",
-    "reset"
-  ],
-  "physics": "continuous wrist with cancelled-candidate gravity recovery",
+  "recoveryActions": [],
+  "physics": "approved wrist motion with collision-checked single-stick deadline exit",
   "startupModelAndWoodBytes": {
     "before": 8427914,
     "after": 3341534
@@ -38,5 +35,9 @@
   "restoredSiteCommit": "95491cd7e96a11753c6a527eea348f709b28ebbf",
   "restoredAt": "2026-09-12T15:41:48.251075+00:00",
   "rollbackReason": "User requested rollback of the progressive mobile startup releases after load failures",
-  "experimentalBackup": "2e1370c126528a880aea2dfee90b16845afb2350"
+  "experimentalBackup": "2e1370c126528a880aea2dfee90b16845afb2350",
+  "cupTap": "same single stroke and audio as Space",
+  "continuousShakeSeconds": 4,
+  "guidedExitSeconds": 1.8,
+  "rollbackCommit": "c45c7d58ce2f7ee80a0be765d6e4e53bbe218b02"
 }
