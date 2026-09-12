@@ -1,8 +1,8 @@
 {
-  "version": "20260913-timed-draw",
-  "sourceCommit": "0a28701",
-  "preparedAt": "2026-09-12T17:31:22.018313+00:00",
-  "entrySHA256": "598b93acfd849890b9ea32d4102912f03fe897cdc692d3ffd85e271f8dea0448",
+  "version": "20260913-mobile-hint",
+  "sourceCommit": "bb691d0",
+  "preparedAt": "2026-09-12T17:55:26.458362+00:00",
+  "entrySHA256": "979f7fd9de9e8f88eb6c5b588a9d920f800aeb567c5939fdf64ad7049e1308b9",
   "mobileDefault": "fast-ktx2-collar-retopology",
   "desktopDefault": "unchanged",
   "homepagePreload": true,
@@ -39,5 +39,7 @@
   "cupTap": "same single stroke and audio as Space",
   "continuousShakeSeconds": 4,
   "guidedExitSeconds": 1.8,
-  "rollbackCommit": "c45c7d58ce2f7ee80a0be765d6e4e53bbe218b02"
+  "rollbackCommit": "c45c7d58ce2f7ee80a0be765d6e4e53bbe218b02",
+  "mobileGuidance": "按住签筒，来回摇晃",
+  "desktopGuidance": "轻点或空格摇一下 · 按住来回摇"
 }
